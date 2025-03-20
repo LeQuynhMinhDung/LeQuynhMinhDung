@@ -24,7 +24,7 @@ I have hands-on experience as a Data Analyst in e-commerce, handling large-scale
 ---
 
 ## 📚 Publications
-### **SOICT23 Conference** *(Dec 2023)*
+### **SOICT23 Conference**
 - **Paper Title**: *Enhancing Video Retrieval with Robust CLIP-Based Multimodal System*
 - **Publication Link**: [🔗 Link](https://dl.acm.org/doi/10.1145/3628797.3629011)
 
