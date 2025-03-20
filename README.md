@@ -1,4 +1,4 @@
-## 👋 Hi
+## 👋 About Me
 I am a passionate Data Science and AI enthusiast with expertise in **data analytics, machine learning, and artificial intelligence**. I hold a Data Science Certificate with Distinction from the Information Technology Center of the University of Science and AI Vietnam and graduated with distinction in International Business and Marketing from the University of Economics Ho Chi Minh City.
 
 I have hands-on experience as a Data Analyst in e-commerce, handling large-scale data. Additionally, I have participated in various AI competitions and achieved top rankings.
@@ -14,7 +14,7 @@ I have hands-on experience as a Data Analyst in e-commerce, handling large-scale
 - **Outcome**: Top 20 in Track 5.
 
 ### Lazada Vietnam – E-commerce Platform 
-- **Role**: Campaign Planner & Data Analyst
+- **Role**: Campaign Planner & Data Analyst.
 - **Skills**: SQL, Excel, Database, Dashboard, Data Analysis, E-commerce.
 
 ### HCM AI Challenge 2023 
@@ -32,13 +32,13 @@ I have hands-on experience as a Data Analyst in e-commerce, handling large-scale
 
 ## 🎓 Education & Certifications
 ### Information Technology Center - University of Science 
-🔹 **Certification**: Data Science and Machine Learning 
+🔹 **Certification**: Data Science and Machine Learning.
 
 ### AI Vietnam 
-🔹 **Course**: Intensive study in **Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision (CV)** with hands-on implementation.
+🔹 **Course**: Intensive study in Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision (CV) with hands-on implementation.
 
 ### University of Economics Ho Chi Minh City 
-🔹 **Degree**: International Business & Marketing  
+🔹 **Degree**: International Business & Marketing.
 
 ---
 
