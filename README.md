@@ -1,5 +1,5 @@
 ## 👋 About Me
-I am a passionate Data Science and AI enthusiast with expertise in **data analytics, machine learning, and artificial intelligence**. I hold a Data Science Certificate with Distinction from the Information Technology Center of the University of Science and AI Vietnam and graduated with distinction in International Business and Marketing from the University of Economics Ho Chi Minh City.
+I am a passionate Data Science and AI enthusiast with expertise in **data science, machine learning, and artificial intelligence**. I hold a Data Science Certificate with Distinction from the Information Technology Center of the University of Science and AI Vietnam and graduated with distinction in International Business and Marketing from the University of Economics Ho Chi Minh City.
 
 I have hands-on experience as a Data Analyst in e-commerce, handling large-scale data. Additionally, I have participated in various AI competitions and achieved top rankings.
 
